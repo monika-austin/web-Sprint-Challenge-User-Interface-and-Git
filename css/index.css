@@ -316,3 +316,44 @@ footer nav a {
   background-repeat: none;
   width: 100%;
 }
+.allInformation {
+  padding: 0 3rem;
+}
+
+.aboutSectionContainer {
+  border-bottom: 1px dashed black;
+}
+
+.photoSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.firstrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.firstcolumn {
+  widows: 50%;
+  margin: 2rem;
+}
+
+.secondcolumn {
+  widows: 50%;
+  margin: 2rem;
+}
+
+.strategy {
+  border-bottom: 1px dashed black;
+  padding: 1rem 1rem 2rem 1rem;
+}
+
+.howWeWork {
+  border-bottom: 1px dashed black;
+  padding: 1rem 1rem 2rem 1rem;
+}
