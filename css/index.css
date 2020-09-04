@@ -357,3 +357,28 @@ footer nav a {
   border-bottom: 1px dashed black;
   padding: 1rem 1rem 2rem 1rem;
 }
+.placesWeWork {
+  border-bottom: 1px dashed black;
+  padding: 1rem 1rem 2rem 1rem;
+}
+
+.collaborations {
+  border-bottom: 1px dashed black;
+  padding: 1rem 1rem 2rem 1rem;
+}
+
+.workTogether {
+  padding: 2rem 0;
+}
+
+.button {
+  text-decoration: none;
+  color: black;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 3%;
+}
+
+p {
+  padding-bottom: 1.5rem;
+}
