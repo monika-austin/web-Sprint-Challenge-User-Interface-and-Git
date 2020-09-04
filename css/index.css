@@ -308,3 +308,11 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+/* About Page Style Starts */
+
+.cityImage {
+  background-size: cover;
+  background-repeat: none;
+  width: 100%;
+}
