@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-First, I would explain that semantic elements convey a clear meaning to the person looking at them. However, non-semantic elements do not tell the reader what the content within this element may be. To help understand better, I would give examples of semantic elements such as table, h1-h6, and p. An examples of non-semantic code would be a div.
+First, I would explain that semantic elements convey a clear meaning to the person looking at them. However, non-semantic elements do not tell the reader what the content within this element may be. To help understand better, I would give examples of semantic elements such as table, h1-h6 (headings), and p (paragraphs). An examples of non-semantic code would be a div because it does not tell us what content would be within.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
@@ -43,9 +43,15 @@ On the other hand, display block is displayed in block containers where it can h
 
 3. What are the 4 areas of the box model?
 
+The four contents of the box model in order of most inward to most outward: content, padding, border, and margin.
+
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
+'align-items: center' works in the cross-axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git is beneficial for teams because it allows us to ensure we have a method for communicating changes, updates, and finding bugs within each others code. It also allows us to works on seperate areas of one project and merge our work into a cummulative and concise finished product.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
